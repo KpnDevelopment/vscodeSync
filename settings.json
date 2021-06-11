@@ -1,0 +1,25 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "liveServer.settings.CustomBrowser": "chrome",
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.useBrowserPreview": true,
+  "liveServer.settings.ChromeDebuggingAttachment": false,
+  "editor.fontSize": 16,
+  "workbench.tree.indent": 10,
+  "editor.mouseWheelZoom": true,
+  "window.title": "${rootName}${separator}${activeEditorMedium}",
+  "workbench.sideBar.location": "right",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.shell.linux": "/bin/bash",
+  "terminal.explorerKind": "external",
+  "terminal.external.linuxExec": "konsole"
+}
